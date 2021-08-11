@@ -26,7 +26,7 @@
 <br><br><br>
 
 ## 강조(Emphasis)
----
+
 <br>
 
 각각 `<em>`, `<storng>`, `<del>` 태그로 변환됩니다. 
@@ -46,12 +46,12 @@
 취소선은 ~~물결표시(tilde)~~를 사용하세요.
 <u>밑줄</u>은 `<u></u>`를 사용하세요. 
 
-(작성자: VSCode Markdown All In One extension을 사용한 환경에서는 언더바를 이용한 강조 표현이 올바르게 작동하지 않는 것으로 보인다.)
+(작성자: VSCode Markdown All In One extension을 사용한 작성자의 환경에서는 언더바를 이용한 강조 표현이 올바르게 작동하지 않는 것으로 보인다.)
 
 <br><br><br>
 
 ## 목록(List)
----
+
 <br>
 
 `<ol>`, `<ul>` 목록 태그로 변환됩니다.
@@ -87,7 +87,7 @@
 <br><br><br>
 
 ## 링크(Links)
----
+
 <br>
 
 `<a>`로 변환됩니다.
@@ -141,7 +141,7 @@
 <br><br><br>
 
 ## 이미지(Images)
----
+
 <br>
 
 `<img>`로 변환됩니다. 
@@ -163,7 +163,7 @@
 <br>
 
 ### 이미지에 링크
----
+
 <br>
 
 마크다운 이미지 코드를 링크 코드로 묶어 줍니다.
@@ -175,7 +175,7 @@
 <br><br><br>
 
 ## 코드(Code) 강조
----
+
 <br>
 
 `<pre>`, `<code>`로 변환됩니다. 
@@ -184,7 +184,7 @@
 <br>
 
 ### 인라인(inline) 코드 강조
----
+
 <br>
 
     `background` 혹은 `backgroud-image` 속성으로 요소에 배경 이미지를 삽입할 수 있습니다. 
@@ -194,7 +194,7 @@
 <br>
 
 ### 블록(block) 코드 강조
----
+
 <br>
 
 ` 를 세 번 이상 입력하고 코드 종류도 적습니다. 
@@ -268,7 +268,7 @@ But let's throw in a tag.
 <br><br><br>
 
 ## 표(Table)
----
+
 <br>
 
 `<table>`태그로 변환됩니다.
@@ -296,7 +296,7 @@ But let's throw in a tag.
 <br><br><br>
 
 ## 인용문(BlockQuote)
----
+
 <br>
 
 `<blockquote>` 태그로 변환됩니다.
@@ -330,7 +330,7 @@ BREAK!
 <br><br><br>
 
 ## 원시 HTML(Raw HTML)
----
+
 <br>
 
 마크다운 문법이 아닌 원시 HTML 문법을 사용할 수 있습니다.
@@ -350,7 +350,7 @@ BREAK!
 <br><br><br>
 
 ## 수평선(Horizontal Rule)
----
+
 <br>
 
 각 기호를 세 개 이상 입력하세요. 
@@ -376,7 +376,7 @@ ___
 <br><br><br>
 
 ## 줄바꿈(Line Breaks)
----
+
 <br>
 
     동해물과 백두산이 마르고 닳도록
@@ -389,4 +389,4 @@ ___
 무궁화 삼천리 화려강산<br>
 대한 사람 대한으로 길이 보전하세
 
-(작성자: VSCode Markdown All in One을 사용하는 작성자의 환경에서는 띄어쓰기 두 번으로 줄바꿈이 되지 않는다.)
+(작성자: VSCode Markdown All in One 환경에서는 띄어쓰기 두 번으로 줄바꿈이 되지 않는다.)
