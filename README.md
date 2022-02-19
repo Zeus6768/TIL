@@ -1,7 +1,7 @@
-# Today I learned(TIL)
+# Today I learned
 
 ## Markdown
-- [마크다운 문서 작성 방법](MarkDown/markdown_syntax.md)
+- [마크다운 문서 작성 방법](markdown/markdown_syntax.md)
 
 <br>
 
@@ -12,4 +12,4 @@
 
 ## Python
 ### Numpy
-- [argmin 함수](numpy/func_argmin.md)
+- [numpy.argmin()](numpy/func_argmin.md)
